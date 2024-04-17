@@ -1,0 +1,27 @@
+@model IEnumerable<HastagMusic.Models.Users>
+@{
+    ViewData["title"] = "Perfil";
+}
+@foreach (var item in Model)
+{
+     int qtdSeguidors = UserManagerServices.GetSeguidores().Count(i =>i.SeguidoID == ViewBag.UserID);
+    int qtdSeguindo = UserManagerServices.GetSeguidores().Count(i =>i.SeguidorID == ViewBag.UserID);
+if (item.Id == ViewBag.UserID)
+    {  
+        <div class="post-container perfil-container">
+            <div class="post-row perfil-row">
+                <div class="user-profile">
+                    <img src="~/icons/perfil.png" alt="">
+                    <div class="user-profile-text">
+                        <p>@item.FirstName @item.LastName</p>
+                        <small>@item.UserName</small>
+                    </div>
+                </div>
+                    <div class="wrap-btn01">
+                        <a href="#" class="btn-right1">@qtdSeguidors Seguidores |</a>
+                        <a href="#" class="btn-right1">@qtdSeguindo Seguindo</a>
+                    </div>
+            </div>
+        </div>
+    }
+}

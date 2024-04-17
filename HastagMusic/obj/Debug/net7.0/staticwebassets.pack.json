@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HastagMusic.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HastagMusic.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\css\\_layouts.styles.css",
+      "PackagePath": "staticwebassets\\css\\_layouts.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\cc.png",
+      "PackagePath": "staticwebassets\\icons\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\comentarios.png",
+      "PackagePath": "staticwebassets\\icons\\comentarios.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\houve.png",
+      "PackagePath": "staticwebassets\\icons\\houve.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\houver01.png",
+      "PackagePath": "staticwebassets\\icons\\houver01.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_group_32px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_group_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_hashtag_24px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_hashtag_24px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_home_32px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_home_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_male_user_30px_2.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_male_user_30px_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_plus_32px_1.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_plus_32px_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_search_32px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_search_32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_sign_out_30px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_sign_out_30px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_slack_24px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_slack_24px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\icons8_speech_bubble_30px.png",
+      "PackagePath": "staticwebassets\\icons\\icons8_speech_bubble_30px.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\li.png",
+      "PackagePath": "staticwebassets\\icons\\li.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\lik.png",
+      "PackagePath": "staticwebassets\\icons\\lik.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\perfil.jpg",
+      "PackagePath": "staticwebassets\\icons\\perfil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\icons\\perfil.png",
+      "PackagePath": "staticwebassets\\icons\\perfil.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\7aed47e17aa61cebd.png",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\7aed47e17aa61cebd.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\IMG_8026.JPG",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\IMG_8026.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\MAURO SHINE.jpg",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\MAURO SHINE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\TOOP REDES FRANCK.jpg",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\TOOP REDES FRANCK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\c-sharp-icon.png",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\c-sharp-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\jajão CD.jpg",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\jajão CD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\imagens\\santo.jpg",
+      "PackagePath": "staticwebassets\\uploads\\imagens\\santo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\videos\\Editar1_compress_lv2.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\Editar1_compress_lv2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\videos\\GKkI2RnG7sGvPi4FAOE9Duuyg9wabmdjAAAF.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\GKkI2RnG7sGvPi4FAOE9Duuyg9wabmdjAAAF.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\videos\\vlc-rec.mp4.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\vlc-rec.mp4.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Fransoft\\Documents\\TI\\CSHARP\\WEB\\Core\\projeto02\\HastagMusic\\wwwroot\\uploads\\videos\\vlc.mp4.mp4",
+      "PackagePath": "staticwebassets\\uploads\\videos\\vlc.mp4.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HastagMusic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HastagMusic.props",
+      "PackagePath": "build\\HastagMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HastagMusic.props",
+      "PackagePath": "buildMultiTargeting\\HastagMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HastagMusic.props",
+      "PackagePath": "buildTransitive\\HastagMusic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

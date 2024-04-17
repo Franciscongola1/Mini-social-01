@@ -1,0 +1,54 @@
+@model IEnumerable<HastagMusic.Models.Users>
+@{
+    ViewData["title"] = "Artistas";
+}
+<div class="friend-search">
+    @using(Html.BeginForm("FindFor","Home",FormMethod.Get))
+    {
+        <label for="buscar">Procurar Amigos</label>
+        <p>
+        @Html.TextBox("user")
+        <input type="submit" value="Buscar" />
+    </p>
+    }
+</div>
+<div class="friend-container">
+@foreach (var item in Model.Where(id =>id.Id != ViewBag.UserID))
+{
+    bool seguidor = UserManagerServices.GetSeguidores().Any(r => r.SeguidorID== ViewBag.UserID && r.SeguidoID == item.Id);
+    if(seguidor)
+    {
+    <div class="friend-row ">
+        <div class="user-profile">
+            <img src="~/icons/perfil.jpg" alt="">
+            <div class="user-profile-text">
+                <p>@item.UserName</p>
+                <small>@item.Email</small>
+            </div>
+        </div>
+        <div>
+            <form asp-action="DeixarDeSeguir" asp-controller="home" asp-route-userId="@item.Id" method="post" class="link-seguir">
+                <input type="submit" value="Deixar de Seguir"/>
+            </form>
+            <a href="#" class="btn-right">⫶</a>
+        </div>    
+    </div>
+    }else{
+            <div class="friend-row ">
+        <div class="user-profile">
+            <img src="~/icons/perfil.jpg" alt="">
+            <div class="user-profile-text">
+                <p>@item.UserName</p>
+                <small>@item.Email</small>
+            </div>
+        </div>
+        <div>
+            <form asp-action="Seguir" asp-controller="home" asp-route-userId="@item.Id" method="post" class="link-seguir">
+                <input type="submit" value="Seguir" class="link-seguir"/>
+            </form>
+            <a href="#" class="btn-right">⫶</a>
+        </div>    
+    </div>
+    }
+}
+</div>

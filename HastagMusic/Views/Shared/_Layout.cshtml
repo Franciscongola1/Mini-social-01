@@ -1,0 +1,169 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - HastagM</title>
+    <meta http-equiv="refresh" content="140">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/reset.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/_layouts.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <!---------------------------------------------------------->
+   <aside class="sidebar">
+        <header class="sidebar_header">
+           <!-- <img src="~/icons/perfil.jpg" alt="" class="logo-img">
+             <span>
+                <span>Amigos</span>
+            </span>-->
+        </header>
+
+    <nav>
+        <a asp-action="index" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_home_32px.png" alt=""></i>
+                <span>Página Inicial</span>
+            </span>
+        </a>
+
+        <button asp-action="index" asp-controller="home" class="button"  onclick="dialogSearchToggle()">
+            <span>
+                <i><img src="~/icons/icons8_search_32px.png" alt=""></i>
+                <span>Pesquisar</span>
+            </span>
+        </button>
+
+
+<!-------------------------------------------------------------------------------->
+        <div class="dialog-search" id="dialog-search">
+            <div class="dialog-container">
+                <div class="dialog-header">
+                    <input type="text" placeholder="Pesquisar">
+                </div>
+                <div>
+                </div>
+            </div>
+        </div>
+<!-------------------------------------------------------------------------------->
+
+
+        <a asp-action="Post" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_plus_32px_1.png" alt=""></i>
+                <span>Criar</span>
+            </span>
+        </a>
+
+        <a asp-action="Explorar" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_slack_24px.png" alt=""></i>
+                <span>Explorar</span>
+            </span>
+        </a>
+
+        <a asp-action="Friends" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_group_32px.png" alt=""></i>
+                <span>Amigos</span>
+            </span>
+        </a>
+
+        <a asp-action="Perfil" asp-controller="my" class="button">
+            <span>
+                <i><img src="~/icons/icons8_male_user_30px_2.png" alt=""></i>
+                <span>Perfil</span>
+            </span>
+        </a>
+
+        <a asp-action="Logout" asp-controller="home" class="button logout">
+            <span>
+                <i><img src="~/icons/icons8_sign_out_30px.png" alt=""></i>
+                <span>Sair</span>
+            </span>
+        </a>
+
+    </nav>
+    </aside>
+    <!-------------------------Menu Mobile----------------------------->
+    <div class="mobileBar">
+        <button class="btn_mobile" onclick="togglemenu()">
+            <span>
+                &#9776
+            </span>
+        </button>
+    </div>
+    <nav class="menu_mobile" id="menu_mobile">
+        <button onclick="togglemenu()" class="btn-close button">
+            <span>
+                x
+            </span>
+        </button>
+
+        <a asp-action="index" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_home_32px.png" alt=""></i>
+                <span>Página Inicial</span>
+            </span class="mobile-text">
+        </a>
+
+        <a class="button">
+            <span>
+                <i><img src="~/icons/icons8_search_32px.png" alt=""></i>
+                <span>Pesquisar</span>
+            </span class="mobile-text">
+        </a>
+
+        <a asp-action="Post" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_plus_32px_1.png" alt=""></i>
+                <span class="mobile-text">Criar</span>
+            </span>
+        </a>
+
+        <a asp-action="explorar" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_slack_24px.png" alt=""></i>
+                <span class="mobile-text">Explorar</span>
+            </span>
+        </a>
+
+        <a  asp-action="Friends" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_group_32px.png" alt=""></i>
+                <span class="mobile-text">Amigos</span>
+            </span>
+        </a>
+
+        <a asp-action="Perfil" asp-controller="my" class="button">
+            <span>
+                <i><img src="~/icons/icons8_male_user_30px_2.png" alt=""></i>
+                <span class="mobile-text">Perfil</span>
+            </span>
+        </a>
+
+
+        <a  asp-action="Logout" asp-controller="home" class="button">
+            <span>
+                <i><img src="~/icons/icons8_sign_out_30px.png" alt=""></i>
+                <span class="mobile-text">Sair</span>
+            </span>
+        </a>
+
+    </nav>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

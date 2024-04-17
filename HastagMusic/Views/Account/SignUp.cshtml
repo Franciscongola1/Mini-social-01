@@ -1,0 +1,50 @@
+@model HastagMusic.Models.Users
+@{
+    ViewData["title"] = "Sign Up";
+    Layout = "_LayoutLogin";
+}
+<div class="form-group">
+    <h3>Criar Conta</h3>
+    <form method="post">
+        <div class="input-field">
+            <label for="Nome">Primeiro Nome</label>
+            <input asp-for="FirstName" id="username" placeholder="primeiro nome">
+        </div>
+        <div class="input-field">
+            <label for="Nome">Ultimo Nome</label>
+            <input asp-for="LastName" id="username" placeholder="ultimo nome">
+        </div>
+
+        <div class="input-field">
+            <label for="Email">Email</label>
+            <input asp-for="Email" id="username" placeholder="User Name">
+        </div>
+        <div class="input-field">
+            <label for="Senha">Senha</label>
+            <input asp-for="Senha" id="username" placeholder="User Name" maxlength="8" minlength="4">
+        </div>
+
+        <div class="input-field">
+            <label for="Selection">Qual é teu estilo musical ?</label>
+        <select asp-for="Estilo" id="">
+            <option value="Todos">Todos</option>
+            <option value="Rapp">Rapp</option>
+            <option value="Kuduro">Kuduro</option>
+            <option value="Afro-house">Afro-house</option>
+            <option value="Kizomba">Kizomba</option>
+            <option value="Semba">Semba</option>
+            <option value="Outros">Outros</option>
+        </select>
+        </div>
+        <div class="input-field">
+            <label for="Selection">Como desejas ver os conteudos ?</label>
+        <select asp-for="Modo" id="">
+            <option value="Tudo">Tudo</option>
+            <option value="Apenas meu estilo">Somene o Meu estilo</option>
+            <option value="Seguidos">Somente dos seguidos</option>
+        </select>
+        </div>
+        <input type="submit" value="Continuar" class="button res">
+    </form>
+
+</div>
